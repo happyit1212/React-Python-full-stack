@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Age,JoiningDate,MonthlyPerformanceScore
+1,John Smith,Sales,30,6/1/2015,85
+2,Jane Doe,Engineering,28,9/15/2017,92
+3,Emily Davis,Marketing,35,3/12/2012,78
+4,Michael Brown,Sales,45,8/25/2010,88
+5,Laura Wilson,Engineering,31,4/30/2018,91
+6,Daniel Martinez,Marketing,40,11/3/2009,82
+7,Sophia Johnson,HR,29,1/20/2016,86
+8,Chris Lee,Engineering,33,5/18/2014,89
+9,Emma Garcia,Marketing,37,10/12/2011,81
+10,Liam Walker,Sales,38,7/22/2013,90
